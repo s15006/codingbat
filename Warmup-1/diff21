@@ -1,0 +1,7 @@
+def diff21(n):
+    if n > 21:
+        return ((n - 21) * 2)
+    return (21 - n)
+
+#    三項演算子の書き方
+#    return abs(21 - n) * 2 if 21 < n else 21 - n

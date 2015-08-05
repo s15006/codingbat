@@ -1,0 +1,6 @@
+def monkey_trouble(a_smile, b_smile):
+    return (a_smile == b_smile)
+
+#    排他的論理和の計算
+#    return not (a_smile ^ b_smile)
+  

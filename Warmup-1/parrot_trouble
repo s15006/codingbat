@@ -1,0 +1,8 @@
+def parrot_trouble(talking, hour):
+    if talking == True:
+        return (hour > 20 or hour < 7)
+    else:
+        return False
+
+#    三項演算子での書き方
+#    return hour > 20 or hour < 7 if talking == True else False

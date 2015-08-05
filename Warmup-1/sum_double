@@ -1,0 +1,7 @@
+def sum_double(a, b):
+    if a == b:
+        return a * 4
+    return a + b
+
+#    三項演算子の書き方
+#    return a * 4 if a == b else a + b

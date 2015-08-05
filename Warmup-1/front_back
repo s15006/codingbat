@@ -1,0 +1,12 @@
+def front_back(str):
+     if len(str) > 1:
+         n = len(str) - 1
+         r = str[0]
+         c = str[1:n]
+         l = str[n]
+         return l + c + r       
+     else:
+         return str
+
+#    三項演算子の書き方
+#    return str[len(str) - 1] + str[1:len(str) - 1] + str[0] if len(str) > 1 else str

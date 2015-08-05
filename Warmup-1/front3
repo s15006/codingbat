@@ -1,0 +1,6 @@
+def front3(str):
+    n = str[0:3]
+    return n * 3
+
+#    一行での書き方
+#    return str[0:3] * 3

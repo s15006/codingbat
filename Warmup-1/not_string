@@ -1,0 +1,9 @@
+def not_string(str):
+    if str.startswith('not'):
+        return str
+    else:
+        return 'not ' + str
+
+#    三項演算子の書き方
+#    'not 'の空白を忘れずに
+#    return str if str.startswith('not') else 'not ' + str
