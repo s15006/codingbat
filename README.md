@@ -13,3 +13,15 @@
 [missing_char](https://github.com/s15006/codingbat/blob/master/Warmup-1/missing_char)  
 [front_back](https://github.com/s15006/codingbat/blob/master/Warmup-1/front_back)  
 [front3](https://github.com/s15006/codingbat/blob/master/Warmup-1/front3)  
+
+## Warmup-2
+[string_times](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_times)  
+[front_times](https://github.com/s15006/codingbat/blob/master/Warmup-2/frongt_times)  
+[string_bits](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_bits)  
+[string_splosion](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_splosion)  
+[last2](https://github.com/s15006/codingbat/blob/master/Warmup-2/last2)  
+[array_count9](https://github.com/s15006/codingbat/blob/master/Warmup-2/array_count9)  
+[array_front9](https://github.com/s15006/codingbat/blob/master/Warmup-2/array_front9)  
+[array123](https://github.com/s15006/codingbat/blob/master/Warmup-2/array123)  
+[string_match](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_match)  
+
