@@ -1,0 +1,14 @@
+def pos_neg(a, b, negative):
+    if negative == False:
+        if (a < 0 and b > 0) or (a > 0 and b < 0):
+            return True
+        else:
+            return False
+    else:
+        if a < 0 and b < 0:
+            return True
+        else:
+            return False
+
+#    三項演算子の書き方
+#    return True if (negative == False and ((a < 0 and b > 0) or (a > 0 and b < 0))) or (negative == True and (a < 0 and b < 0)) else False
