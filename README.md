@@ -16,7 +16,7 @@
 
 ## Warmup-2
 [string_times](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_times)  
-[front_times](https://github.com/s15006/codingbat/blob/master/Warmup-2/frongt_times)  
+[front_times](https://github.com/s15006/codingbat/blob/master/Warmup-2/front_times)  
 [string_bits](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_bits)  
 [string_splosion](https://github.com/s15006/codingbat/blob/master/Warmup-2/string_splosion)  
 [last2](https://github.com/s15006/codingbat/blob/master/Warmup-2/last2)  
