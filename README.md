@@ -1,4 +1,4 @@
 # codingbat
 
-## Wramup-1
-[sleep_in](../codingbat/Wramup-1/sleep_in)
+## Warmup-1
+[sleep_in](../codingbat/Warmup-1/sleep_in)
