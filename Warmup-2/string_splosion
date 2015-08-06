@@ -1,0 +1,7 @@
+ng_splosion(str):
+    n = 0
+    a = ""
+    for i in str:
+        a += str[:n + 1]
+        n += 1
+    return a

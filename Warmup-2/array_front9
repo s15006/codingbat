@@ -1,0 +1,17 @@
+def array_front9(nums):
+#    f = len(nums) - 1
+#    n = 0
+#   while True:
+#        if 9 in nums or 4 in nums:
+#            if nums[n] == 9:
+#                return True
+#                break
+#            if nums[n] == 4:
+#                return False
+#                break
+#            n += 1
+#        else:
+#            return False
+#            break
+
+    return True if 9 in nums[:4] else False 

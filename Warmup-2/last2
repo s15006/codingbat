@@ -1,0 +1,14 @@
+def last2(str):
+    n = len(str)
+    a = str[n - 2:n]
+    r = 0
+    l = -1
+    for i in str:
+        if str[0 + r:2 + r] == a:
+           l += 1
+        r += 1
+    
+    if str == '':
+        return 0
+    else:
+        return l

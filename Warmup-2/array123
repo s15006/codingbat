@@ -1,0 +1,7 @@
+rray123(nums):
+    if 1 in nums and 2 in nums:
+        if 3 in nums:
+            return True
+        else:
+            return False
+    return False

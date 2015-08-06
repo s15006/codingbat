@@ -1,0 +1,8 @@
+def string_bits(str):
+    n = 0
+    a = ""
+    for i in str:
+        if n % 2 == 0:
+            a += str[n]
+        n += 1
+    return a
